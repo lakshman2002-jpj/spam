@@ -1,6 +1,6 @@
 
 
-# 🧠 YouTube Spam Comment Detection using Machine Learning
+#  YouTube Spam Comment Detection using Machine Learning
 
 A Flask-based web application that detects **YouTube spam comments** using a **Random Forest Machine Learning model**.  
 This project includes data preprocessing, model training, user authentication, and real-time spam prediction.
